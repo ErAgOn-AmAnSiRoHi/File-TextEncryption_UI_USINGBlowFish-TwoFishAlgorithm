@@ -396,4 +396,5 @@ def decrypt(input_hex):
     return binascii.unhexlify(decrypted_hex).decode() 
 
 
-# driver()
+
+driver()

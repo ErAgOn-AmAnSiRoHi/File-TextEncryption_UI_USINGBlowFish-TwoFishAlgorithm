@@ -3,11 +3,11 @@ In order to run this User Interface Application, make sure that you have the blo
 Also the python library - tkinter should be installed beforehand for the UI.
 
 To install Tkinter, do
-pip install tk
+> pip install tk
 
 And to verify the installation, boot up the Python Shell and run:
-import tkinter 
-tkinter._test()
+> import tkinter  
+  tkinter._test()
 
 
 Make sure to install other necessary libraries as well.
